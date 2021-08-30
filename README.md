@@ -1,4 +1,4 @@
-**Week 5 Documentation / Resources USE FOR TA**
+**Week 5 Documentation / Resources **USE FOR TA** **
 
 Github resource for setting up webpack, Babel, and React:
 -- https://gist.github.com/therobinkim/7eeb85853709474f545ef137ea20e479
@@ -11,3 +11,6 @@ Setting up Express from official docs:
 
 Setting up jQuery from official docs:
 -- https://www.npmjs.com/package/jquery
+
+Setting up axios from official docs:
+-- https://www.npmjs.com/package/axios
