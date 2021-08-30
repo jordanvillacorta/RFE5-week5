@@ -14,3 +14,6 @@ Setting up jQuery from official docs:
 
 Setting up axios from official docs:
 -- https://www.npmjs.com/package/axios
+
+Setting up react and react-dom from official docs:
+-- https://www.npmjs.com/package/react-dom
