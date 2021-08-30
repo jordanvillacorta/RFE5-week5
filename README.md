@@ -5,3 +5,6 @@ Github resource for setting up webpack, Babel, and React:
 
 Setting up webpack from official docs:
 -- https://webpack.js.org/guides/installation/
+
+Setting up Express from official docs:
+-- https://expressjs.com/en/starter/installing.html
