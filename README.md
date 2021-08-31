@@ -17,3 +17,6 @@ Setting up axios from official docs:
 
 Setting up react and react-dom from official docs:
 -- https://www.npmjs.com/package/react-dom
+
+A good resource for using Axios within React:
+-- https://www.digitalocean.com/community/tutorials/react-axios-react
