@@ -20,3 +20,6 @@ Setting up react and react-dom from official docs:
 
 A good resource for using Axios within React:
 -- https://www.digitalocean.com/community/tutorials/react-axios-react
+
+A Stack Overflow resource that helped me debug an error with running mySQL:
+-- https://stackoverflow.com/questions/44946270/er-not-supported-auth-mode-mysql-server/50547109
