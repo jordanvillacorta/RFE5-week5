@@ -29,3 +29,7 @@ MongoDB Docs for running MongoDB:
 -- https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#run-mongodb-community-edition
 ----> Command to run MongoDB: brew services start mongodb-community@5.0
 ----> Command to stop MongoDB: brew services stop mongodb-community@5.0 
+
+The syntax for all Imports and Exports with modules:
+-- Importing --> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+-- Exporting --> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
