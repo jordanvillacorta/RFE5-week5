@@ -33,3 +33,6 @@ MongoDB Docs for running MongoDB:
 The syntax for all Imports and Exports with modules:
 -- Importing --> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 -- Exporting --> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
+
+The official Docs for Mongoose, resource for creating a Schema:
+-- https://mongoosejs.com/docs/guide.html#definition
