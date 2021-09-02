@@ -39,3 +39,6 @@ The official Docs for Mongoose, resource for creating a Schema:
 
 Stack Overflow resource for difference between AJAX contentType and dataType:
 -- https://stackoverflow.com/questions/18701282/what-is-content-type-and-datatype-in-an-ajax-request
+
+Article on AXIOS Response object and all the properties inside the Response object:
+-- https://zetcode.com/javascript/axios/
