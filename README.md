@@ -36,3 +36,6 @@ The syntax for all Imports and Exports with modules:
 
 The official Docs for Mongoose, resource for creating a Schema:
 -- https://mongoosejs.com/docs/guide.html#definition
+
+Stack Overflow resource for difference between AJAX contentType and dataType:
+-- https://stackoverflow.com/questions/18701282/what-is-content-type-and-datatype-in-an-ajax-request
