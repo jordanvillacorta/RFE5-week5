@@ -23,3 +23,7 @@ A good resource for using Axios within React:
 
 A Stack Overflow resource that helped me debug an error with running mySQL:
 -- https://stackoverflow.com/questions/44946270/er-not-supported-auth-mode-mysql-server/50547109
+
+_________ Full Stack Review Resources________
+MongoDB Docs for running MongoDB:
+-- https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#run-mongodb-community-edition
