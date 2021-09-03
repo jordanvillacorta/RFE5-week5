@@ -48,3 +48,6 @@ Article on how to render a list of elements with React:
 
 W3Schools resource for creating a HTML Table:
 -- https://www.w3schools.com/html/html_tables.asp
+
+Great resource for starting an HTML file from scratch:
+-- https://www.mikedane.com/web-development/html/creating-an-html-file/
