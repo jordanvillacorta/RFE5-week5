@@ -45,3 +45,6 @@ Article on AXIOS Response object and all the properties inside the Response obje
 
 Article on how to render a list of elements with React:
 -- http://jasonjl.me/blog/2015/04/18/rendering-list-of-elements-in-react-with-jsx/
+
+W3Schools resource for creating a HTML Table:
+-- https://www.w3schools.com/html/html_tables.asp
