@@ -42,3 +42,6 @@ Stack Overflow resource for difference between AJAX contentType and dataType:
 
 Article on AXIOS Response object and all the properties inside the Response object:
 -- https://zetcode.com/javascript/axios/
+
+Article on how to render a list of elements with React:
+-- http://jasonjl.me/blog/2015/04/18/rendering-list-of-elements-in-react-with-jsx/
