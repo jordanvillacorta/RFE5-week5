@@ -51,3 +51,7 @@ W3Schools resource for creating a HTML Table:
 
 Great resource for starting an HTML file from scratch:
 -- https://www.mikedane.com/web-development/html/creating-an-html-file/
+
+<------------ Cow List Remake (with MongoDB) ------------>
+Express link that explains how to serve static files in Express:
+-- https://expressjs.com/en/starter/static-files.html
